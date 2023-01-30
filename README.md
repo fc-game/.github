@@ -1,1 +1,1 @@
-# .github
+# organization's profile
